@@ -495,35 +495,35 @@ img {
 
 /*Game developer*/
 .skills__csharp{
-    width: 70%;
+    width: 75%;
 }
 .skills__java{
-    width: 80%;
+    width: 94%;
 }
 .skills__cplusplus{
-    width: 30%;
+    width: 88%;
 }
 .skills__none1{
-    width: 0%;
+    width: 20%;
 }
 
 /*frontend developer*/
 .skills__html{
-    width: 60%;
+    width: 83%;
 }
 .skills__css{
-    width: 50%;
+    width: 85%;
 }
 .skills__javascript{
-    width: 50%;
+    width: 89%;
 }
-.skills__none2{
-    width: 0%;
+.skills__office{
+    width: 100%;
 }
 
 /*software & engines*/
 .skills__adobe{
-    width: 80%;
+    width: 89%;
 }
 .skills__unity{
     width: 80%;
@@ -901,7 +901,6 @@ img {
     text-align: center;
     color: var(--mb-3);
 }
-
 .footer__title,
 .footer__subtitle,
 .footer__link,
